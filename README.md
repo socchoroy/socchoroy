@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/socchoroy" target="blank"><img src="https://img.shields.io/twitter/follow/socchoroy?logo=twitter&style=for-the-badge" alt="socchoroy" /></a> </p>
 
-- 🔭 I’m currently working on [Invoice Pdf Maker project](https://github.com/socchoroy/Invoice-Pdf-Maker)
+- 🔭 I’m currently working on [Brew Crew App](https://github.com/socchoroy/Invoice-Pdf-Maker)
 
 - 🌱 I’m currently learning **App Development**
 
